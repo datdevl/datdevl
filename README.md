@@ -1,4 +1,4 @@
-# <p align="center">Lê Văn Đakt</p>
+# <p align="center">Lê Văn Đạt</p>
 
 <p align="center">
 	<a href="https://github.com/datdevl">
