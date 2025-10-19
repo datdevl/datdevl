@@ -1,4 +1,4 @@
-# <p align="center">Vũ Tuấn Anh</p>
+# <p align="center">Lê Văn Đakt</p>
 
 <p align="center">
 	<a href="https://github.com/datdevl">
@@ -15,7 +15,7 @@ namespace VTA
     {
         static void Main(string[] args)
         {
-            string Name = "Vũ Tuấn Anh";
+            string Name = "Lê Văn Đạt";
             string Age = "2007";
             string Gender = "Male";
             string Address = "HÀ Nội, Việt Nam";
