@@ -9,9 +9,9 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace VTA
+namespace LVĐ
 {
-    class tuanAnhVTA
+    class LeVanDat
     {
         static void Main(string[] args)
         {
@@ -138,7 +138,6 @@ namespace VTA
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
@@ -152,7 +151,6 @@ namespace VTA
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <p align='center'>
-<img src="https://github.com/datdevl/">
 </p>
 
 <hr>
