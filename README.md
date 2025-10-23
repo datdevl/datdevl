@@ -219,7 +219,7 @@ namespace LVĐ
 </p>
 
 <p align="center">
-  🥉 <b>Giải Đồng Olympic Cấp Tỉnh</b> – lớp 10 & 11 (2022–2024) <br><br>
+  🥉 <b>Giải Đồng Olympic Tin Học Cấp Tỉnh</b> – lớp 10 & 11 (2022–2024) <br><br>
   🧾 <b>Chứng chỉ MOS 365 (Vĩnh viễn)</b> – năm 2025 <br>
 </p>
 
