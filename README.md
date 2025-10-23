@@ -225,8 +225,13 @@ namespace LVĐ
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20💙&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20💙&fontColor=FFFFFF&fontSize=25&animation=fadeIn" 
+    style="pointer-events:none;" 
+    alt="Footer banner - Lê Văn Đạt 💙"
+/>
 </p>
+
 
 
 ##
