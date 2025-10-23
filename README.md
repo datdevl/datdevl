@@ -162,8 +162,9 @@ namespace LVĐ
 ## 🌸 Góc nhỏ của tôi  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Chào+mừng+bạn+đến+với+GitHub+của+Lê+Văn+Đạt!;Lập+trình+là+đam+mê+-+sáng+tạo+là+sứ+mệnh!;Cùng+nhau+học+hỏi+và+phát+triển+nhé+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Chào+mừng+bạn+đến+với+GitHub+của+Lê+Văn+Đạt!;Lập+trình+là+đam+mê+-+Sáng+tạo+là+sứ+mệnh!;Cùng+nhau+học+hỏi+và+phát+triển+nhé+💙" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -176,11 +177,6 @@ namespace LVĐ
 
 ---
 
-## 🏅 Thành tựu trên GitHub  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=datdevl&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
-</p>
 
 ---
 
@@ -205,8 +201,8 @@ namespace LVĐ
 <p align="center">
   🎧 <b>Bài hát yêu thích gần đây:</b>  
   <br>
-  <a href="https://www.youtube.com/watch?v=H5v3kku4y6Q" target="_blank">
-    <img src="https://img.youtube.com/vi/H5v3kku4y6Q/maxresdefault.jpg" width="400" style="border-radius: 10px;">
+  <a href="[https://www.youtube.com/watch?v=H5v3kku4y6Q](https://www.youtube.com/watch?v=ukHK1GVyr0I&list=RDukHK1GVyr0I&start_radio=1" target="_blank">
+    <img src="https://img.youtube.com/vi/ukHK1GVyr0I/maxresdefault.jpg" width="400" style="border-radius: 10px;">
   </a>
   <br>
   <i>“Nấu ăn cho em” – Đen Vâu ft. PiaLinh 🎶</i>
