@@ -155,6 +155,69 @@ namespace LVĐ
 
 <hr>
 <br>
+---
+
+## 🌈 My GitHub Space  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+💻;Coding+is+not+just+my+skill...;It's+my+PASSION+🔥;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
+</p>
+
+---
+
+## 📊 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datdevl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datdevl&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=datdevl&theme=radical&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 🧠 Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
+## 🐍 My Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datdevl/datdevl/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎧 Currently Listening  
+
+<p align="center">
+  <a href="https://open.spotify.com/user/" target="_blank">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  </a>
+</p>
+
+---
+
+## 💬 Fun Fact  
+> 💡 “Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20✨&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
+</p>
+
+
 
 ##
 
