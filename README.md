@@ -157,15 +157,17 @@ namespace LVĐ
 <br>
 ---
 
-## 🌈 My GitHub Space  
+---
+
+## 🌸 Góc nhỏ của tôi  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+💻;Coding+is+not+just+my+skill...;It's+my+PASSION+🔥;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Chào+mừng+bạn+đến+với+GitHub+của+Lê+Văn+Đạt!;Lập+trình+là+đam+mê+-+sáng+tạo+là+sứ+mệnh!;Cùng+nhau+học+hỏi+và+phát+triển+nhé+💙" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats  
+## 📈 Thống kê GitHub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datdevl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
@@ -174,23 +176,23 @@ namespace LVĐ
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏅 Thành tựu trên GitHub  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=datdevl&theme=radical&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=datdevl&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
 
-## 🧠 Random Dev Quote  
+## 💬 Trích dẫn cảm hứng  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Nếu+bạn+không+tự+xây+dựng+ước+mơ+của+mình,+người+khác+sẽ+thuê+bạn+xây+ước+mơ+của+họ.&author=Lê+Văn+Đạt" alt="Quote" />
 </p>
 
 ---
 
-## 🐍 My Contribution Snake  
+## 🐍 Hoạt động của tôi  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/datdevl/datdevl/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -198,25 +200,29 @@ namespace LVĐ
 
 ---
 
-## 🎧 Currently Listening  
+## 🎵 Đang nghe  
 
 <p align="center">
-  <a href="https://open.spotify.com/user/" target="_blank">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  🎧 <b>Bài hát yêu thích gần đây:</b>  
+  <br>
+  <a href="https://www.youtube.com/watch?v=H5v3kku4y6Q" target="_blank">
+    <img src="https://img.youtube.com/vi/H5v3kku4y6Q/maxresdefault.jpg" width="400" style="border-radius: 10px;">
   </a>
+  <br>
+  <i>“Nấu ăn cho em” – Đen Vâu ft. PiaLinh 🎶</i>
 </p>
 
 ---
 
-## 💬 Fun Fact  
-> 💡 “Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it.”
+## ✨ Sự thật thú vị  
+
+> 💡 "Mỗi dòng code đều là một viên gạch xây nên ước mơ."
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20✨&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20💙&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
 </p>
-
 
 
 ##
