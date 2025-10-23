@@ -27,7 +27,7 @@ namespace LVĐ
 }
 ```
 
-## <p align="center">You can reach me at 🌹</p>
+## <p align="center">LH với tôi 🌹</p>
 
 <p align="center">
   <a href="https://www.facebook.com/datdevl">
@@ -63,7 +63,7 @@ namespace LVĐ
   </a>
 </p>
 
-## <p align="center">What I use :alien:</p>
+## <p align="center">I want.. :alien:</p>
 
 <table align="center">
   <tbody>
@@ -135,7 +135,7 @@ namespace LVĐ
 </table>
 
 
-## <p align="center">GitHub Profile Trophy 🏆</p>
+## <p align="center">🏆</p>
 
 <p align='center'>
 </p>
@@ -148,7 +148,7 @@ namespace LVĐ
 
 
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
+## <p align="center">𝓙𝓾𝓼𝓽 𝓪 𝓼𝓷𝓪𝓴𝓮 𝓮𝓪𝓽𝓲𝓷𝓰 𝓶𝔂 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🐍</p>
 
 <p align='center'>
 </p>
@@ -188,11 +188,6 @@ namespace LVĐ
 
 ---
 
-## 🐍 Hoạt động của tôi  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/datdevl/datdevl/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
@@ -213,7 +208,7 @@ namespace LVĐ
 
 ## ✨ Sự thật thú vị  
 
-> 💡 "Mỗi dòng code đều là một viên gạch xây nên ước mơ."
+> 💡 "𝕸𝖔̂̃𝖎 𝖉𝖔̀𝖓𝖌 𝖈𝖔𝖉𝖊 𝖉𝖊̂̀𝖚 𝖑𝖆̀ 𝖒𝖔̣̂𝖙 𝖛𝖎𝖊̂𝖓 𝖌𝖆̣𝖈𝖍 𝖝𝖆̂𝖞 𝖓𝖊̂𝖓 𝖚̛𝖔̛́𝖈 𝖒𝖔̛."
 
 ---
 
