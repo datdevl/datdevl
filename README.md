@@ -199,14 +199,16 @@ namespace LVĐ
 ## 🎵 Đang nghe  
 
 <p align="center">
-  🎧 <b>Bài hát yêu thích gần đây:</b>  
-  <br>
-  <a href="[https://www.youtube.com/watch?v=ukHK1GVyr0I](https://www.youtube.com/watch?v=ukHK1GVyr0I&list=RDukHK1GVyr0I&start_radio=1" target="_blank">
+  🎧 <b>Bài hát yêu thích gần đây:</b><br><br>
+  <a href="https://www.youtube.com/watch?v=H5v3kku4y6Q" target="_blank">
+    <img src="https://img.youtube.com/vi/H5v3kku4y6Q/0.jpg" width="400" alt="Nấu ăn cho em - Đen Vâu">
+  </a><br>
+  <i>“Nấu ăn cho em” – Đen Vâu ft. PiaLinh 🎶</i><br><br>
+  <a href="https://www.youtube.com/watch?v=H5v3kku4y6Q" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Play_button_icon.svg" width="60" alt="Play">
   </a>
-	
-  <br>
-  <i>“Nấu ăn cho em” – Đen Vâu ft. PiaLinh 🎶</i>
 </p>
+
 
 ---
 
