@@ -223,10 +223,6 @@ namespace LVĐ
   🧾 <b>Chứng chỉ MOS 365 (Vĩnh viễn)</b> – năm 2025 <br>
 </p>
 
-<p align="center">
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/8PerdFy"  ><a href="//imgur.com/a/8PerdFy">Richard Burton: the greatest poem in the English language is the present tense of the verb &quot;To Be&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20💙&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
