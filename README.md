@@ -211,6 +211,22 @@ namespace LVĐ
 > 💡 "𝕸𝖔̂̃𝖎 𝖉𝖔̀𝖓𝖌 𝖈𝖔𝖉𝖊 𝖉𝖊̂̀𝖚 𝖑𝖆̀ 𝖒𝖔̣̂𝖙 𝖛𝖎𝖊̂𝖓 𝖌𝖆̣𝖈𝖍 𝖝𝖆̂𝖞 𝖓𝖊̂𝖓 𝖚̛𝖔̛́𝖈 𝖒𝖔̛."
 
 ---
+## <p align="center">🏅 Giải thưởng & Chứng chỉ</p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/991/991952.png" width="80" alt="Olympic Award">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" alt="Certificate Icon">
+</p>
+
+<p align="center">
+  🥉 <b>Giải Đồng Olympic Cấp Tỉnh</b> – lớp 10 & 11 (2022–2024) <br><br>
+  🧾 <b>Chứng chỉ MOS 365 (Vĩnh viễn)</b> – năm 2025 <br>
+</p>
+
+<p align="center">
+ <blockquote class="imgur-embed-pub" lang="en" data-id="a/8PerdFy"  ><a href="//imgur.com/a/8PerdFy">Richard Burton: the greatest poem in the English language is the present tense of the verb &quot;To Be&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20💙&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
