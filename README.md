@@ -2,7 +2,6 @@
 
 <p align="center">
 	<a href="https://github.com/datdevl">
-	<img src="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/563445809_25377565451880401_4010466069526224500_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFQ34CeZv1RQHvoYanCfuKHJu98A2KQtd4m73wDYpC13qxajdSFaAcYJeIhvO0KiVBw4A84BvN7tuepvYOjaYtO&_nc_ohc=CZKu0I46J-UQ7kNvwFfEApT&_nc_oc=Adkhkn578gKMNAkLe2jIVUkPKFAFcOJLZx4fWSIQAvKhBnF2PYMbhoaVX69yJNV8GWA&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&_nc_gid=Mzz23n7uS4xpxpoS_aum7g&oh=00_AfckJU8i0lZiaI3d-MRyjz5YKr_oaK4zmPyQCb7ejIiG2w&oe=68FA7879" width = "200" alt="VTA">
 	</a>
 </p>
 
