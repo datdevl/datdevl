@@ -163,7 +163,7 @@ namespace LVĐ
 ## 📈 Thống kê GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datdevl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=datdevl&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
