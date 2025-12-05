@@ -139,13 +139,6 @@ namespace LVĐ
 <p align='center'>
 </p>
 
-## <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
-
-## <p align="center">Github Contributions 📈</p>
-
-
 
 ## <p align="center">𝓙𝓾𝓼𝓽 𝓪 𝓼𝓷𝓪𝓴𝓮 𝓮𝓪𝓽𝓲𝓷𝓰 𝓶𝔂 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🐍</p>
 
