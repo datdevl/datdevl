@@ -206,8 +206,6 @@ namespace LVĐ
   🥉 <b>Giải Đồng Olympic Tin Học Cấp Tỉnh</b> – lớp 10 & 11 (2022–2024) <br><br>
   🧾 <b>Chứng chỉ MOS 365 (Vĩnh viễn)</b> – năm 2025 <br>
 </p>
-<img src="https://camo.githubusercontent.com/dc1a2b91de29457c7c1fd53e6241d2b80de9cd7bd3385f17f58db1d18d533ebb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" alt="dev" data-canonical-src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=120&section=footer&text=Lê%20Văn%20Đạt%20💙&fontColor=FFFFFF&fontSize=25&animation=fadeIn" 
@@ -215,6 +213,8 @@ namespace LVĐ
     alt="Footer banner - Lê Văn Đạt 💙"
 />
 </p>
+<img src="https://camo.githubusercontent.com/dc1a2b91de29457c7c1fd53e6241d2b80de9cd7bd3385f17f58db1d18d533ebb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" alt="dev" data-canonical-src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 
 
