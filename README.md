@@ -159,14 +159,6 @@ namespace LVĐ
 
 
 ---
-
-## 📈 Thống kê GitHub  
-
-<p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datdevl&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
 ---
 
 
