@@ -26,7 +26,7 @@ namespace LVĐ
 }
 ```
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" >
-## <p align="center">LH với tôi 🌹</p>
+<p align="center">LH với tôi 🌹</p>
 
 <p align="center">
   <a href="https://www.facebook.com/datdevl">
