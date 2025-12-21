@@ -25,7 +25,7 @@ namespace LVĐ
     }
 }
 ```
-
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" >
 ## <p align="center">LH với tôi 🌹</p>
 
 <p align="center">
@@ -217,7 +217,6 @@ namespace LVĐ
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
        alt="dev" 
        style="max-width: 100%;">
-	<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" >
 </div>
 
 
